@@ -15,12 +15,5 @@ Technologies Used
 Flutter: For building the cross-platform mobile application.
 
 Firebase: For backend services including user authentication.
-Some Screenshots of the App
-![](./assets/images/resim_1.png)
-![](./assets/images/resim_2.png)
-![](./assets/images/resim_3.png)
-![](./assets/images/resim_4.png)
-![](./assets/images/resim_5.png)
-![](./assets/images/resim_6.png)
-![](./assets/images/resim_7.png)
+All images related to the app’s UI and screenshots are located in the /lib/assets/images folder of the project.
 
