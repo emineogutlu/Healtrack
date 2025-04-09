@@ -15,5 +15,7 @@ Technologies Used
 Flutter: For building the cross-platform mobile application.
 
 Firebase: For backend services including user authentication.
+
+
 All images related to the app’s UI and screenshots are located in the /lib/assets/images folder of the project.
 
